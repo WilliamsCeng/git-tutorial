@@ -3,3 +3,7 @@
 - fix-B
 - feature-C
 - feature-D
+# For further learning materials, go to 
+1.ProGit
+2.LearingGitBranching
+3.tryGit
